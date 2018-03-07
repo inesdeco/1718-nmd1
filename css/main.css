@@ -2,4 +2,14 @@
 
 body {
     color: black;
-    font-family: 'Karma', serif;
+    font-family: 'Karma', serif;}
+
+h1 {
+color: brown;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+h2 {
+    color: dimgrey;
+}
